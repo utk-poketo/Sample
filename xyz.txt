@@ -1,0 +1,4 @@
+val
+nor
+got
+but
